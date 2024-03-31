@@ -8,4 +8,4 @@
 - 📫 How to reach me: kwalpratham22@gmail.com
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwalpratham&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwalpratham&theme=github_dark)
