@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kwalpratham}&theme={nord_dark})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwalpratham&theme=nord_dark)
