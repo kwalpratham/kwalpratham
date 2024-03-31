@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Python
 - 📫 How to reach me: kwalpratham22@gmail.com
-- ⚡ Fun fact: 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwalpratham&theme=nord_dark)
